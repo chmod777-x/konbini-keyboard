@@ -1,0 +1,5 @@
+baseURL = 'https://localhost:1313'
+languageCode = 'en-us'
+title = 'Konbini Keyboard'
+theme = 'blowfish'
+image = 'K_K_Logo_2.png'
