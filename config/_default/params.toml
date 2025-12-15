@@ -141,7 +141,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   bio = "Sharing what I've learned to help others."
   
   links = [
-    { email = "mailto:social_rh@proton.me" },
+    { email = "mailto:ryan@konbinikeyboard.com" },
     { mastodon = "https://infosec.exchange/@chmod777" },
     #{ instagram = "https://instagram.com/hoppppp" },
   ]
