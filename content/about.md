@@ -4,7 +4,7 @@ draft = false
 title = 'About Me'
 +++
 
-# Hi Kobini Keyboard, I'm Dad
+# Hi Konbini Keyboard, I'm Dad
 
 
 ## Who I Am
