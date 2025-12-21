@@ -33,9 +33,9 @@ When applying for your COE, you'll need to have some things prepared before hand
 *  The English version can serve as a reference document for filling out the Japanese version 
 *  We were able to get a Japanese version of the COE application at the [Immigration Bureau in Torihamacho, Yokohama](https://www.moj.go.jp/isa/about/region/yokohama/?hl=en)
 ### - [COE Questionnaire](https://www.moj.go.jp/isa/content/930003535.pdf)
-## - Koseki tohon 
+### - Koseki tohon 
 *  aka Family Registry 
-## - Passport and residence certificate of the Japanese spouse
+### - Passport and residence certificate of the Japanese spouse
 ### - Copy of your passport
 ### - Photo for COE 
 *  Must be a passport style photo (4cm long, 3cm wide) 
