@@ -1,7 +1,7 @@
 +++
 date = '2026-01-03T10:32:31-05:00'
 draft = false
-title = 'Visa Time'
+title = 'Spouse Visa and Residence Card Part 2: Visa Time'
 description = 'Spouse Visa and Residence Card Part 2: The Japanese Visa'
 showCards = true
 cardView = true
