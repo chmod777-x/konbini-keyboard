@@ -1,7 +1,7 @@
 +++
 date = '2025-12-20T15:01:32-05:00'
 draft = false
-title = 'COE and Me'
+title = 'Spouse Visa and Residence Card Part 1: COE and Me'
 description = 'Spouse Visa and Residence Card Part 1: The COE'
 showCards = true
 cardView = true
