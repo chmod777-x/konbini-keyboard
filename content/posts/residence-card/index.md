@@ -57,7 +57,7 @@ Some key items you'll need to bring with you to your local city/ward office:
 
 ## Health Insurance NHI
 
-![NHI Card](nhi_card.jpeg "NHI card - redacted for your pleasure")
+![NHI Card](nhi_card.jpg "NHI card - redacted for your pleasure")
 
 Right after you get your Residence Card registered, you can immediately enroll into the Japanese health insurance. Now, if you already have a job in Japan you'll most likely be covered under the Employee's Health Insurance (EHI). Otherwise, you'll be able to join the National Health Insurance (NHI). I won't go into detail on the differences now, but that will probably be under a future post. 
 
