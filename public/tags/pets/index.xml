@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pets on Konbini Keyboard // コンビニキーボード</title>
+    <link>http://localhost:1313/tags/pets/</link>
+    <description>Recent content in Pets on Konbini Keyboard // コンビニキーボード</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Mon, 18 May 2026 16:31:06 +0900</lastBuildDate><atom:link href="http://localhost:1313/tags/pets/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Traveling With Pets</title>
+      <link>http://localhost:1313/posts/traveling-with-pets/</link>
+      <pubDate>Mon, 18 May 2026 16:31:06 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/traveling-with-pets/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Traveling and Moving With Your Dog
+    &lt;div id=&#34;traveling-and-moving-with-your-dog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#traveling-and-moving-with-your-dog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img
+    class=&#34;my-0 rounded-md&#34;
+    loading=&#34;lazy&#34;
+    decoding=&#34;async&#34;
+    fetchpriority=&#34;auto&#34;
+    alt=&#34;Beach Dog&#34;
+    width=&#34;3072&#34;
+    height=&#34;4080&#34;
+    src=&#34;http://localhost:1313/beach_dog_hu_cc9faf0d11055afa.jpg&#34;
+    srcset=&#34;http://localhost:1313/beach_dog_hu_cc9faf0d11055afa.jpg 800w, http://localhost:1313/beach_dog_hu_41092598fe526eba.jpg 1280w&#34;
+    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;
+    data-zoom-src=&#34;http://localhost:1313/beach_dog.jpg&#34;&gt;&lt;figcaption&gt;This is my actual dog. On a beach, in Japan, living his best life.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;This post is long overdue, and honestly, I should have written this a while back. Getting your (&lt;a
+  href=&#34;https://konbinikeyboard.com/posts/visa-time/&#34;
+    target=&#34;_blank&#34;
+  &gt;Spouse Visa and Residence Card&lt;/a&gt;) is one battle, but what if you are wanting to move with your dog/cat/animal friend? To be frank, this was probably &lt;strong&gt;the most difficult and stressful&lt;/strong&gt; part of the move. There are added costs, &lt;strong&gt;months of waiting&lt;/strong&gt;, and uknowns on whether you&amp;rsquo;ll get your documents approved on time for your flight (i.e. you &lt;em&gt;might&lt;/em&gt; have to reschedule your flight). Its a lot. It&amp;rsquo;s also a huge decision on whether you want to bring your animal friend to a foreign country or not. I won&amp;rsquo;t get into the reasons for or against, and honestly there shouldn&amp;rsquo;t be any judgement on you if you decide or not decide to bring your animal friend with you.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/traveling-with-pets/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

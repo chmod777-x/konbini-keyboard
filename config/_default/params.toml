@@ -142,7 +142,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   
   links = [
     { email = "mailto:ryan@konbinikeyboard.com" },
-    { mastodon = "https://infosec.exchange/@chmod777" },
+    { mastodon = "https://mastodon.social/@Konbini_Keyboard" },
     #{ instagram = "https://instagram.com/hoppppp" },
   ]
 
