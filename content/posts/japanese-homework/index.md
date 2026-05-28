@@ -50,4 +50,14 @@ In the future, I will probably (たぶん) post more in Japanese as my confidenc
 
 ひっこしのまえにたくさんともだちにあいました。ブログもかきました。そのあいだはとてもいそがしかったです。
 
+## Photos
+
+![Great Falls](greatfalls.jpg "Great Falls National Park")
+
+![Backyard](backyard.jpg "My old backyard.")
+
+![Fox Raccoon](fox_raccoon.jpg "A standoff between a fox and a raccoon in my front yard.")
+
+![Risu](risu.jpg "Squirrels would eat all my bird feed.")
+
 
